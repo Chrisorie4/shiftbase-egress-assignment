@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T09:40:38.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="JXke8ZERyQFUqoP36e2b" version="21.2.8" type="device">
+<mxfile host="app.diagrams.net" modified="2023-05-05T10:04:45.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="kX-xXjnf8GjJz7J8dEmk" version="21.2.8" type="device">
   <diagram name="Pagina-1" id="OxKqhFZz2plbKqOkzbJY">
     <mxGraphModel dx="307" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
         <mxCell id="tcsaBj-2yrazW6xAQG2b-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.019;entryY=0.353;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="tcsaBj-2yrazW6xAQG2b-4" target="tcsaBj-2yrazW6xAQG2b-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tcsaBj-2yrazW6xAQG2b-17" value="Parser" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="tcsaBj-2yrazW6xAQG2b-17" value="Parser + ErrorHandler" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="1035" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tcsaBj-2yrazW6xAQG2b-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="tcsaBj-2yrazW6xAQG2b-17" target="tcsaBj-2yrazW6xAQG2b-9">
