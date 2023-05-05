@@ -1,5 +1,5 @@
 # shiftbase-egress-assignment
-Package for standarizing simple ApiClient creationg and performing communication under PSR-7, 17, 18 standards
+Package for standarizing simple ApiClient creation and performing communication under PSR-7, 17, 18 standards
 
 Simple demonstration can be run by CD-ing into root directory and typing the following in your terminal:
 
